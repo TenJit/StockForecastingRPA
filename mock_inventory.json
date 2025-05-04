@@ -1,0 +1,4002 @@
+[
+  {
+    "store_id": 1,
+    "item_id": 1,
+    "quantity": 2151,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 2,
+    "quantity": 2042,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 3,
+    "quantity": 1718,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 4,
+    "quantity": 399,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 5,
+    "quantity": 2144,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 6,
+    "quantity": 1038,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 7,
+    "quantity": 351,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 8,
+    "quantity": 2732,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 9,
+    "quantity": 1188,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 10,
+    "quantity": 1003,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 11,
+    "quantity": 1809,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 12,
+    "quantity": 907,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 13,
+    "quantity": 1313,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 14,
+    "quantity": 469,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 15,
+    "quantity": 2182,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 16,
+    "quantity": 316,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 17,
+    "quantity": 2335,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 18,
+    "quantity": 623,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 19,
+    "quantity": 2053,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 20,
+    "quantity": 1481,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 21,
+    "quantity": 2963,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 22,
+    "quantity": 896,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 23,
+    "quantity": 1183,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 24,
+    "quantity": 2698,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 25,
+    "quantity": 644,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 26,
+    "quantity": 1212,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 27,
+    "quantity": 2265,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 28,
+    "quantity": 2239,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 29,
+    "quantity": 2511,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 30,
+    "quantity": 305,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 31,
+    "quantity": 2481,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 32,
+    "quantity": 789,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 33,
+    "quantity": 132,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 34,
+    "quantity": 1557,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 35,
+    "quantity": 978,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 36,
+    "quantity": 1469,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 37,
+    "quantity": 1272,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 38,
+    "quantity": 1479,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 39,
+    "quantity": 1885,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 40,
+    "quantity": 2107,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 41,
+    "quantity": 2290,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 42,
+    "quantity": 948,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 43,
+    "quantity": 1789,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 44,
+    "quantity": 1677,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 45,
+    "quantity": 296,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 46,
+    "quantity": 604,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 47,
+    "quantity": 2970,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 48,
+    "quantity": 1740,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 49,
+    "quantity": 2238,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 1,
+    "item_id": 50,
+    "quantity": 506,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 1,
+    "quantity": 1752,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 2,
+    "quantity": 2492,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 3,
+    "quantity": 2050,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 4,
+    "quantity": 839,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 5,
+    "quantity": 352,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 6,
+    "quantity": 887,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 7,
+    "quantity": 1476,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 8,
+    "quantity": 2468,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 9,
+    "quantity": 2948,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 10,
+    "quantity": 1468,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 11,
+    "quantity": 969,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 12,
+    "quantity": 963,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 13,
+    "quantity": 869,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 14,
+    "quantity": 2305,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 15,
+    "quantity": 956,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 16,
+    "quantity": 2800,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 17,
+    "quantity": 1097,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 18,
+    "quantity": 1073,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 19,
+    "quantity": 1522,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 20,
+    "quantity": 1208,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 21,
+    "quantity": 2075,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 22,
+    "quantity": 1952,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 23,
+    "quantity": 1346,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 24,
+    "quantity": 199,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 25,
+    "quantity": 1738,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 26,
+    "quantity": 2723,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 27,
+    "quantity": 765,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 28,
+    "quantity": 2322,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 29,
+    "quantity": 1332,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 30,
+    "quantity": 123,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 31,
+    "quantity": 1395,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 32,
+    "quantity": 2101,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 33,
+    "quantity": 1835,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 34,
+    "quantity": 253,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 35,
+    "quantity": 1989,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 36,
+    "quantity": 1200,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 37,
+    "quantity": 2255,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 38,
+    "quantity": 520,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 39,
+    "quantity": 1399,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 40,
+    "quantity": 1053,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 41,
+    "quantity": 1019,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 42,
+    "quantity": 722,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 43,
+    "quantity": 330,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 44,
+    "quantity": 2981,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 45,
+    "quantity": 2688,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 46,
+    "quantity": 2111,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 47,
+    "quantity": 1068,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 48,
+    "quantity": 1062,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 49,
+    "quantity": 609,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 2,
+    "item_id": 50,
+    "quantity": 2547,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 1,
+    "quantity": 904,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 2,
+    "quantity": 1323,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 3,
+    "quantity": 1266,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 4,
+    "quantity": 530,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 5,
+    "quantity": 2931,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 6,
+    "quantity": 2665,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 7,
+    "quantity": 1742,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 8,
+    "quantity": 2158,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 9,
+    "quantity": 1532,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 10,
+    "quantity": 2591,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 11,
+    "quantity": 862,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 12,
+    "quantity": 2771,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 13,
+    "quantity": 2241,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 14,
+    "quantity": 2669,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 15,
+    "quantity": 1118,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 16,
+    "quantity": 1111,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 17,
+    "quantity": 2040,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 18,
+    "quantity": 2103,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 19,
+    "quantity": 547,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 20,
+    "quantity": 2134,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 21,
+    "quantity": 1326,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 22,
+    "quantity": 1211,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 23,
+    "quantity": 2075,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 24,
+    "quantity": 2866,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 25,
+    "quantity": 2191,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 26,
+    "quantity": 1901,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 27,
+    "quantity": 1452,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 28,
+    "quantity": 1229,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 29,
+    "quantity": 387,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 30,
+    "quantity": 2338,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 31,
+    "quantity": 815,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 32,
+    "quantity": 676,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 33,
+    "quantity": 2843,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 34,
+    "quantity": 2292,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 35,
+    "quantity": 2491,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 36,
+    "quantity": 2502,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 37,
+    "quantity": 2111,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 38,
+    "quantity": 875,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 39,
+    "quantity": 962,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 40,
+    "quantity": 2699,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 41,
+    "quantity": 791,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 42,
+    "quantity": 261,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 43,
+    "quantity": 2163,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 44,
+    "quantity": 1883,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 45,
+    "quantity": 576,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 46,
+    "quantity": 1389,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 47,
+    "quantity": 640,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 48,
+    "quantity": 2286,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 49,
+    "quantity": 915,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 3,
+    "item_id": 50,
+    "quantity": 2564,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 1,
+    "quantity": 1421,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 2,
+    "quantity": 688,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 3,
+    "quantity": 653,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 4,
+    "quantity": 2399,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 5,
+    "quantity": 2703,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 6,
+    "quantity": 344,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 7,
+    "quantity": 2948,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 8,
+    "quantity": 759,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 9,
+    "quantity": 1777,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 10,
+    "quantity": 864,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 11,
+    "quantity": 2206,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 12,
+    "quantity": 2960,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 13,
+    "quantity": 868,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 14,
+    "quantity": 1369,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 15,
+    "quantity": 790,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 16,
+    "quantity": 1671,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 17,
+    "quantity": 2806,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 18,
+    "quantity": 2844,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 19,
+    "quantity": 2485,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 20,
+    "quantity": 2984,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 21,
+    "quantity": 1059,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 22,
+    "quantity": 2691,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 23,
+    "quantity": 1785,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 24,
+    "quantity": 1979,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 25,
+    "quantity": 2564,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 26,
+    "quantity": 1737,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 27,
+    "quantity": 2513,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 28,
+    "quantity": 2378,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 29,
+    "quantity": 307,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 30,
+    "quantity": 1986,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 31,
+    "quantity": 1624,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 32,
+    "quantity": 549,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 33,
+    "quantity": 2539,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 34,
+    "quantity": 2778,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 35,
+    "quantity": 234,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 36,
+    "quantity": 1661,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 37,
+    "quantity": 1254,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 38,
+    "quantity": 2178,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 39,
+    "quantity": 974,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 40,
+    "quantity": 2356,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 41,
+    "quantity": 1695,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 42,
+    "quantity": 658,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 43,
+    "quantity": 1695,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 44,
+    "quantity": 2413,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 45,
+    "quantity": 2749,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 46,
+    "quantity": 2249,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 47,
+    "quantity": 2785,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 48,
+    "quantity": 1522,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 49,
+    "quantity": 136,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 4,
+    "item_id": 50,
+    "quantity": 234,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 1,
+    "quantity": 1914,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 2,
+    "quantity": 155,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 3,
+    "quantity": 1406,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 4,
+    "quantity": 2006,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 5,
+    "quantity": 1154,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 6,
+    "quantity": 2099,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 7,
+    "quantity": 285,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 8,
+    "quantity": 158,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 9,
+    "quantity": 2106,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 10,
+    "quantity": 2060,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 11,
+    "quantity": 2062,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 12,
+    "quantity": 2886,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 13,
+    "quantity": 210,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 14,
+    "quantity": 2372,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 15,
+    "quantity": 1009,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 16,
+    "quantity": 2156,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 17,
+    "quantity": 2170,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 18,
+    "quantity": 2828,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 19,
+    "quantity": 1647,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 20,
+    "quantity": 1271,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 21,
+    "quantity": 2768,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 22,
+    "quantity": 1297,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 23,
+    "quantity": 1591,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 24,
+    "quantity": 1276,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 25,
+    "quantity": 2772,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 26,
+    "quantity": 2643,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 27,
+    "quantity": 1810,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 28,
+    "quantity": 2714,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 29,
+    "quantity": 2390,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 30,
+    "quantity": 2798,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 31,
+    "quantity": 1698,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 32,
+    "quantity": 2543,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 33,
+    "quantity": 151,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 34,
+    "quantity": 1914,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 35,
+    "quantity": 2397,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 36,
+    "quantity": 215,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 37,
+    "quantity": 2886,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 38,
+    "quantity": 1138,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 39,
+    "quantity": 527,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 40,
+    "quantity": 2004,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 41,
+    "quantity": 1779,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 42,
+    "quantity": 1316,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 43,
+    "quantity": 500,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 44,
+    "quantity": 1435,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 45,
+    "quantity": 2910,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 46,
+    "quantity": 1450,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 47,
+    "quantity": 2752,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 48,
+    "quantity": 623,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 49,
+    "quantity": 2596,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 5,
+    "item_id": 50,
+    "quantity": 2277,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 1,
+    "quantity": 921,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 2,
+    "quantity": 1441,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 3,
+    "quantity": 746,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 4,
+    "quantity": 2479,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 5,
+    "quantity": 1022,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 6,
+    "quantity": 959,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 7,
+    "quantity": 939,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 8,
+    "quantity": 1838,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 9,
+    "quantity": 2235,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 10,
+    "quantity": 1490,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 11,
+    "quantity": 2202,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 12,
+    "quantity": 1172,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 13,
+    "quantity": 807,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 14,
+    "quantity": 2949,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 15,
+    "quantity": 277,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 16,
+    "quantity": 1821,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 17,
+    "quantity": 1772,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 18,
+    "quantity": 383,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 19,
+    "quantity": 407,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 20,
+    "quantity": 2425,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 21,
+    "quantity": 713,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 22,
+    "quantity": 933,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 23,
+    "quantity": 1160,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 24,
+    "quantity": 837,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 25,
+    "quantity": 1632,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 26,
+    "quantity": 1773,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 27,
+    "quantity": 132,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 28,
+    "quantity": 2695,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 29,
+    "quantity": 1124,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 30,
+    "quantity": 2088,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 31,
+    "quantity": 482,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 32,
+    "quantity": 302,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 33,
+    "quantity": 2956,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 34,
+    "quantity": 691,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 35,
+    "quantity": 1895,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 36,
+    "quantity": 901,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 37,
+    "quantity": 2820,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 38,
+    "quantity": 1322,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 39,
+    "quantity": 2707,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 40,
+    "quantity": 2935,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 41,
+    "quantity": 1441,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 42,
+    "quantity": 919,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 43,
+    "quantity": 2136,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 44,
+    "quantity": 2297,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 45,
+    "quantity": 2672,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 46,
+    "quantity": 1852,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 47,
+    "quantity": 1734,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 48,
+    "quantity": 1737,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 49,
+    "quantity": 1947,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 6,
+    "item_id": 50,
+    "quantity": 1855,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 1,
+    "quantity": 1276,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 2,
+    "quantity": 346,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 3,
+    "quantity": 1488,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 4,
+    "quantity": 699,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 5,
+    "quantity": 388,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 6,
+    "quantity": 1547,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 7,
+    "quantity": 262,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 8,
+    "quantity": 1888,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 9,
+    "quantity": 531,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 10,
+    "quantity": 2171,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 11,
+    "quantity": 341,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 12,
+    "quantity": 1636,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 13,
+    "quantity": 1064,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 14,
+    "quantity": 2848,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 15,
+    "quantity": 957,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 16,
+    "quantity": 2074,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 17,
+    "quantity": 511,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 18,
+    "quantity": 1016,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 19,
+    "quantity": 1474,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 20,
+    "quantity": 614,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 21,
+    "quantity": 866,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 22,
+    "quantity": 2143,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 23,
+    "quantity": 1940,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 24,
+    "quantity": 168,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 25,
+    "quantity": 2771,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 26,
+    "quantity": 2881,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 27,
+    "quantity": 2016,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 28,
+    "quantity": 1620,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 29,
+    "quantity": 1497,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 30,
+    "quantity": 212,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 31,
+    "quantity": 2391,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 32,
+    "quantity": 669,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 33,
+    "quantity": 375,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 34,
+    "quantity": 2027,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 35,
+    "quantity": 1040,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 36,
+    "quantity": 2810,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 37,
+    "quantity": 1984,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 38,
+    "quantity": 360,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 39,
+    "quantity": 1757,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 40,
+    "quantity": 1448,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 41,
+    "quantity": 2270,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 42,
+    "quantity": 1128,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 43,
+    "quantity": 1479,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 44,
+    "quantity": 2162,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 45,
+    "quantity": 1454,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 46,
+    "quantity": 1436,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 47,
+    "quantity": 2181,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 48,
+    "quantity": 1234,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 49,
+    "quantity": 1670,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 7,
+    "item_id": 50,
+    "quantity": 2445,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 1,
+    "quantity": 2006,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 2,
+    "quantity": 1666,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 3,
+    "quantity": 1090,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 4,
+    "quantity": 548,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 5,
+    "quantity": 2755,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 6,
+    "quantity": 2605,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 7,
+    "quantity": 2484,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 8,
+    "quantity": 1692,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 9,
+    "quantity": 2891,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 10,
+    "quantity": 2763,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 11,
+    "quantity": 2215,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 12,
+    "quantity": 478,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 13,
+    "quantity": 1758,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 14,
+    "quantity": 1280,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 15,
+    "quantity": 387,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 16,
+    "quantity": 1688,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 17,
+    "quantity": 2899,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 18,
+    "quantity": 1445,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 19,
+    "quantity": 530,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 20,
+    "quantity": 2066,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 21,
+    "quantity": 2781,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 22,
+    "quantity": 860,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 23,
+    "quantity": 2740,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 24,
+    "quantity": 1694,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 25,
+    "quantity": 1878,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 26,
+    "quantity": 2872,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 27,
+    "quantity": 1237,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 28,
+    "quantity": 1600,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 29,
+    "quantity": 1603,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 30,
+    "quantity": 1165,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 31,
+    "quantity": 952,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 32,
+    "quantity": 743,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 33,
+    "quantity": 2310,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 34,
+    "quantity": 1028,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 35,
+    "quantity": 1239,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 36,
+    "quantity": 1059,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 37,
+    "quantity": 1895,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 38,
+    "quantity": 528,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 39,
+    "quantity": 1386,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 40,
+    "quantity": 2577,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 41,
+    "quantity": 2366,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 42,
+    "quantity": 1560,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 43,
+    "quantity": 757,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 44,
+    "quantity": 1144,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 45,
+    "quantity": 581,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 46,
+    "quantity": 650,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 47,
+    "quantity": 761,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 48,
+    "quantity": 1243,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 49,
+    "quantity": 2508,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 8,
+    "item_id": 50,
+    "quantity": 2063,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 1,
+    "quantity": 800,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 2,
+    "quantity": 919,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 3,
+    "quantity": 355,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 4,
+    "quantity": 1254,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 5,
+    "quantity": 1141,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 6,
+    "quantity": 592,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 7,
+    "quantity": 1623,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 8,
+    "quantity": 2820,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 9,
+    "quantity": 2299,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 10,
+    "quantity": 1532,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 11,
+    "quantity": 1493,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 12,
+    "quantity": 1539,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 13,
+    "quantity": 1191,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 14,
+    "quantity": 917,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 15,
+    "quantity": 633,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 16,
+    "quantity": 1907,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 17,
+    "quantity": 931,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 18,
+    "quantity": 331,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 19,
+    "quantity": 2613,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 20,
+    "quantity": 768,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 21,
+    "quantity": 436,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 22,
+    "quantity": 176,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 23,
+    "quantity": 2801,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 24,
+    "quantity": 943,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 25,
+    "quantity": 2473,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 26,
+    "quantity": 660,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 27,
+    "quantity": 1926,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 28,
+    "quantity": 1349,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 29,
+    "quantity": 1678,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 30,
+    "quantity": 1695,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 31,
+    "quantity": 2022,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 32,
+    "quantity": 182,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 33,
+    "quantity": 259,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 34,
+    "quantity": 2395,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 35,
+    "quantity": 2783,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 36,
+    "quantity": 2369,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 37,
+    "quantity": 306,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 38,
+    "quantity": 1091,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 39,
+    "quantity": 2362,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 40,
+    "quantity": 632,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 41,
+    "quantity": 1962,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 42,
+    "quantity": 2708,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 43,
+    "quantity": 1468,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 44,
+    "quantity": 612,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 45,
+    "quantity": 2037,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 46,
+    "quantity": 2683,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 47,
+    "quantity": 218,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 48,
+    "quantity": 2095,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 49,
+    "quantity": 240,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 9,
+    "item_id": 50,
+    "quantity": 960,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 1,
+    "quantity": 413,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 2,
+    "quantity": 260,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 3,
+    "quantity": 2641,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 4,
+    "quantity": 309,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 5,
+    "quantity": 1096,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 6,
+    "quantity": 2999,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 7,
+    "quantity": 2625,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 8,
+    "quantity": 2310,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 9,
+    "quantity": 1188,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 10,
+    "quantity": 2864,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 11,
+    "quantity": 1911,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 12,
+    "quantity": 1372,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 13,
+    "quantity": 367,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 14,
+    "quantity": 2898,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 15,
+    "quantity": 1820,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 16,
+    "quantity": 2580,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 17,
+    "quantity": 815,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 18,
+    "quantity": 2280,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 19,
+    "quantity": 171,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 20,
+    "quantity": 2926,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 21,
+    "quantity": 2755,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 22,
+    "quantity": 1815,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 23,
+    "quantity": 1692,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 24,
+    "quantity": 1539,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 25,
+    "quantity": 1740,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 26,
+    "quantity": 1492,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 27,
+    "quantity": 1807,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 28,
+    "quantity": 2166,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 29,
+    "quantity": 2820,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 30,
+    "quantity": 2177,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 31,
+    "quantity": 526,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 32,
+    "quantity": 2386,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 33,
+    "quantity": 1569,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 34,
+    "quantity": 2400,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 35,
+    "quantity": 1962,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 36,
+    "quantity": 644,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 37,
+    "quantity": 576,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 38,
+    "quantity": 299,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 39,
+    "quantity": 2316,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 40,
+    "quantity": 745,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 41,
+    "quantity": 518,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 42,
+    "quantity": 2521,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 43,
+    "quantity": 2103,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 44,
+    "quantity": 2060,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 45,
+    "quantity": 375,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 46,
+    "quantity": 2485,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 47,
+    "quantity": 1066,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 48,
+    "quantity": 1822,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 49,
+    "quantity": 2468,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  },
+  {
+    "store_id": 10,
+    "item_id": 50,
+    "quantity": 412,
+    "last_updated": {
+      "$date": "2017-12-31T17:00:00Z"
+    }
+  }
+]
